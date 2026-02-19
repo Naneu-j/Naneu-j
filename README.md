@@ -189,7 +189,7 @@ Building scalable systems for businesses and institutions.
 ##  Let's Connect
  Email: lengapianinaneu@gmail.com  
  LinkedIn: www.linkedin.com/in/jenerica-naneu-a657a038b  
- Portfolio:   
+ Portfolio: https://naneu-jenerica-portfolio.netlify.app/  
 
 
 ---
